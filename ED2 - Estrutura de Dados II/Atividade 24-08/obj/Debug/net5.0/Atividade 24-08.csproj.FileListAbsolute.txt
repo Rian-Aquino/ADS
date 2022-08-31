@@ -1,0 +1,16 @@
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\Atividade 24-08.exe
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\Atividade 24-08.deps.json
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\Atividade 24-08.runtimeconfig.json
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\Atividade 24-08.runtimeconfig.dev.json
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\Atividade 24-08.dll
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\ref\Atividade 24-08.dll
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\bin\Debug\net5.0\Atividade 24-08.pdb
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.csproj.AssemblyReference.cache
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.AssemblyInfoInputs.cache
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.AssemblyInfo.cs
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.csproj.CoreCompileInputs.cache
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.dll
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\ref\Atividade 24-08.dll
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.pdb
+C:\Users\riana\Documents\02. ADS\4º Semestre\ED2 - Estrutura de Dados II\Atividade 24-08\obj\Debug\net5.0\Atividade 24-08.genruntimeconfig.cache
