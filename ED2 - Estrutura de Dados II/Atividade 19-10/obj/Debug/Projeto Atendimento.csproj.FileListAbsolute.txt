@@ -1,0 +1,8 @@
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\bin\Debug\Projeto Atendimento.exe.config
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\bin\Debug\Projeto Atendimento.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\bin\Debug\Projeto Atendimento.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.csprojResolveAssemblyReference.cache
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto_Atendimento.MainForm.resources
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.csproj.GenerateResource.Cache
