@@ -1,0 +1,6 @@
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe.config
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.csprojResolveAssemblyReference.cache
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.pdb
