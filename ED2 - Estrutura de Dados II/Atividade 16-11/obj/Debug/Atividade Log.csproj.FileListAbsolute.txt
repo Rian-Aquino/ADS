@@ -1,0 +1,6 @@
+C:\Users\riana\Documents\SharpDevelop Projects\Atividade Log\Atividade Log\obj\Debug\Atividade Log.csprojResolveAssemblyReference.cache
+C:\Users\riana\Documents\SharpDevelop Projects\Atividade Log\Atividade Log\bin\Debug\Atividade Log.exe.config
+C:\Users\riana\Documents\SharpDevelop Projects\Atividade Log\Atividade Log\bin\Debug\Atividade Log.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Atividade Log\Atividade Log\bin\Debug\Atividade Log.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Atividade Log\Atividade Log\obj\Debug\Atividade Log.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Atividade Log\Atividade Log\obj\Debug\Atividade Log.pdb
