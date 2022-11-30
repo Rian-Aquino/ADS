@@ -1,0 +1,8 @@
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\bin\Debug\Projeto Transporte.exe.config
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\bin\Debug\Projeto Transporte.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\bin\Debug\Projeto Transporte.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.csprojResolveAssemblyReference.cache
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto_Transporte.MainForm.resources
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.csproj.GenerateResource.Cache
