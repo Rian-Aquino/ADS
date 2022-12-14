@@ -1,0 +1,6 @@
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Locação\Projeto Locação\obj\Debug\Projeto Locação.csprojResolveAssemblyReference.cache
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Locação\Projeto Locação\bin\Debug\Projeto Locação.exe.config
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Locação\Projeto Locação\bin\Debug\Projeto Locação.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Locação\Projeto Locação\bin\Debug\Projeto Locação.pdb
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Locação\Projeto Locação\obj\Debug\Projeto Locação.exe
+C:\Users\riana\Documents\SharpDevelop Projects\Projeto Locação\Projeto Locação\obj\Debug\Projeto Locação.pdb
