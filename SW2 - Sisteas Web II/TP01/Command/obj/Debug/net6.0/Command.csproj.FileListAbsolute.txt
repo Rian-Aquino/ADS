@@ -1,0 +1,61 @@
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\appsettings.json
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\Command.staticwebassets.runtime.json
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\Command.exe
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\Command.dll
+C:\Users\aluno\source\repos\Command\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.RazorAssemblyInfo.cache
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.RazorAssemblyInfo.cs
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.Command.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.build.Command.props
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Command.props
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Command.props
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\scopedcss\bundle\Command.styles.css
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\scopedcss\projectbundle\Command.bundle.scp.css
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.dll
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Command\Command\obj\Debug\net6.0\ref\Command.dll
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.RazorAssemblyInfo.cache
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.RazorAssemblyInfo.cs
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.dll
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\appsettings.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\Command.staticwebassets.runtime.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\Command.exe
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\Command.dll
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.Command.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.build.Command.props
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Command.props
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Command.props
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\scopedcss\bundle\Command.styles.css
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\scopedcss\projectbundle\Command.bundle.scp.css
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\rian.aquino\Documents\ADS\6º Semestre\SW2 - Sistemas Web II\TP01\Command\Command\obj\Debug\net6.0\ref\Command.dll
