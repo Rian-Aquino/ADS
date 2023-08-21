@@ -25,6 +25,8 @@ namespace TP01
         {
             id.Text = "";
             password.Text = "";
+
+            id.Focus();
         }
 
         private void OnCredits(object sender, EventArgs e) 
