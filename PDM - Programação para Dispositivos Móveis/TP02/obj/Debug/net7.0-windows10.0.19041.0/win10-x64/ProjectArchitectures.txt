@@ -1,0 +1,1 @@
+C:\Users\rian.aquino\source\repos\PDM\TP02\TarefasApp\TarefasApp.csproj;x64

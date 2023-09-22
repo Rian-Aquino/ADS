@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TarefasApp.EditTaskPage"
+             Title="EditTaskPage">
+    <ScrollView>
+        <VerticalStackLayout>
+        <StackLayout Padding="20">
+            <Button Text="x" BackgroundColor="DimGray" TextColor="White" Clicked="CloseModal" WidthRequest="50" HorizontalOptions="End"/>
+            <Label Text="Título:"
+               FontAttributes="Bold"
+               FontSize="Large" />
+            <Entry x:Name="titleEntry"
+               Placeholder="Insira o título da tarefa" Text="{Binding Title}" />
+
+            <Label Text="Descrição:"
+               FontAttributes="Bold"
+               FontSize="Large" />
+            <Editor x:Name="descriptionEditor"
+                Placeholder="Insira a descrição da tarefa" Text="{Binding Description}"/>
+
+            <Label Text="Data de Criação:"
+               FontAttributes="Bold"
+               
+               FontSize="Large" />
+            <DatePicker x:Name="createdAtDatePicker"
+                    Format="dd/mm/yyyy" Date="{Binding CreatedAt}"/>
+
+            <Label Text="Prioridade:"
+               FontAttributes="Bold"
+               FontSize="Large" />
+            <Picker x:Name="priorityPicker"></Picker>
+
+            <Button Text="Salvar"
+                Command="{Binding CreateTaskCommand}"
+                Clicked="EditTask"/>
+        </StackLayout>
+    </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
