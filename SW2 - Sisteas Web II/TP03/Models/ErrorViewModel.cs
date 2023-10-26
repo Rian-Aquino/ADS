@@ -1,0 +1,15 @@
+/*
+ Dupla:
+    Gabriel Ferreira de Souza
+    Rian Gustavo Quintanilha de Aquino
+ */
+
+namespace TP03.Models
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
