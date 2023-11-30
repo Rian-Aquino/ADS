@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Common.Models.Note>
+
+@{
+    ViewData["Title"] = "Índice";
+
+    /*
+    Dupla:
+    Gabriel Ferreira de Souza
+    Rian Gustavo Quintanilha de Aquino
+    */
+}
+
+<h1>Índice</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo</a>
+</p>
+
+<div class="d-flex flex-wrap">
+    @foreach (var item in Model)
+    {
+        <div class="card m-2" style="max-width: 18rem;">
+            <div class="card-header">
+                <strong>@Html.DisplayFor(modelItem => item.Title)</strong>
+                <span class="badge badge-info" style="color: #08F">@item.Type.ToString()</span>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@Html.DisplayFor(modelItem => item.Text)</p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+            </div>
+        </div>
+    }
+</div>
