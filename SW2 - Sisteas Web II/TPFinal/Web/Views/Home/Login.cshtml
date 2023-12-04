@@ -1,0 +1,23 @@
+﻿@page
+@using API.Models;
+
+@model LoginModel
+
+@{
+}
+
+<h1 class="display-4">Login</h1>
+
+<form asp-action="Login" class="mt-4">
+    <div class="mb-3">
+        <label for="Login" class="form-label">Nome:</label>
+        <input type="text" class="form-control" id="Login" name="Login" required>
+    </div>
+    <div class="mb-3">
+        <label for="Senha" class="form-label">Senha:</label>
+        <input type="Senha" class="form-control" id="Senha" name="Senha" required>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Login</button>
+    </div>
+</form>
