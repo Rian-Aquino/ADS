@@ -1,3 +1,6 @@
 # PDMI6-P2
 
-Realizado por Diogo Teixeira e Guilherme Ferreira
+Realizado por 
+
+- Gabriel Ferreira de Souza
+- Rian Gustavo Quintanilha de Aquino 
